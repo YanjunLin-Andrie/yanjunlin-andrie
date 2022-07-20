@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.www.linkedin.com/in/yanjun-linked/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
+  <a href="https://www.linkedin.com/in/yanjun-linked/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
